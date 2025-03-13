@@ -1,0 +1,70 @@
+{
+    "cameras": [
+        {
+            "name": "Ax-les-Thermes - Front de neige Bonascre",
+            "url": "https://srv2.axsport.eu/webcam/bonascre/webcam.jpg",
+            "section": "Ax-les-Thermes"
+        },
+        {
+            "name": "Ax-les-Thermes - Saquet",
+            "url": "https://srv2.axsport.eu/webcam/saquet/webcam.jpg",
+            "section": "Ax-les-Thermes"
+        },
+        {
+            "name": "Ax-les-Thermes - Plateau de Mansèdre",
+            "url": "https://srv2.axsport.eu/webcam/mansedre/webcam.jpg",
+            "section": "Ax-les-Thermes"
+        },
+
+
+        {
+            "name": "Font-Romeu - Les Airelles",
+            "url": "https://www.youtube.com/live/v41wlakLZcc?si=XdFzpjwrV9UJQD2",
+            "section": "Font-Romeu"
+        },
+        {
+            "name": "Font-Romeu - Haut Roc de la Calme",
+            "url": "https://www.youtube.com/live/1q1rGe1GzY0",
+            "section": "Font-Romeu"
+        },
+        {
+            "name": "Font-Romeu - Front de neige",
+            "url": "https://youtu.be/nL9AePFlikA",
+            "preview": "https://srv08-3.trinum.com/ibox/ftpcam/mega_font-romeu_calme-sud.jpg",
+            "section": "Font-Romeu"
+        },
+
+
+
+        {
+            "name": "Ax-les-Thermes - 720m",
+            "url": "https://www.bison-fute.gouv.fr/camera-upload/camera7.mp4",
+            "section": "Routes"
+        },
+        {
+            "name": "Merens - 1000m",
+            "url": "https://www.bison-fute.gouv.fr/camera-upload/camera8.mp4",
+            "section": "Routes"
+        },
+        {
+            "name": "L'Hospitalet - 1350m",
+            "url": "https://www.bison-fute.gouv.fr/camera-upload/camera3.mp4",
+            "section": "Routes"
+        },
+        {
+            "name": "Carrefour Pas de la case - 1790m",
+            "url": "https://www.bison-fute.gouv.fr/camera-upload/camera4.mp4",
+            "section": "Routes"
+        },
+        {
+            "name": "Giratoire Pas de la case - 2060m",
+            "url": "https://www.bison-fute.gouv.fr/camera-upload/camera5.mp4",
+            "section": "Routes"
+        },
+        {
+            "name": "Col de Puymorens - 1930m",
+            "url": "https://www.bison-fute.gouv.fr/camera-upload/camera6.mp4",
+            "section": "Routes"
+        }
+    ]
+} 
