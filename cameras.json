@@ -17,54 +17,91 @@
         },
 
 
+        
         {
-            "name": "Font-Romeu - Les Airelles",
-            "url": "https://www.youtube.com/live/v41wlakLZcc?si=XdFzpjwrV9UJQD2",
-            "section": "Font-Romeu"
+            "name": "Ax-les-Thermes - La Tute",
+            "url": "https://pv.viewsurf.com/1154/Ax-3-Domaines-Saquet-2000?i=ODMzODp1bmRlZmluZWQ",
+            "section": "Ax-les-Thermes"
         },
         {
-            "name": "Font-Romeu - Haut Roc de la Calme",
-            "url": "https://www.youtube.com/live/1q1rGe1GzY0",
-            "section": "Font-Romeu"
-        },
-        {
-            "name": "Font-Romeu - Front de neige",
-            "url": "https://youtu.be/nL9AePFlikA",
-            "preview": "https://srv08-3.trinum.com/ibox/ftpcam/mega_font-romeu_calme-sud.jpg",
-            "section": "Font-Romeu"
+            "name": "Ax-les-Thermes - Savis 2",
+            "url": "https://pv.viewsurf.com/1154/Ax-3-Domaines-Saquet-2000?i=ODMzODp1bmRlZmluZWQ",
+            "section": "Ax-les-Thermes"
         },
 
 
 
         {
-            "name": "Ax-les-Thermes - 720m",
+            "name": "Font-Romeu - Col del Pam (2000m)",
+            "url": "https://www.youtube.com/embed/MwFpyEcpS4k?si=IIgHIhg-VpGaoNId",
+            "preview": "https://app.webcam-hd.com/tnm/ibox/FTPCam/font-romeu_col-del-pam.jpg",
+            "section": "Font-Romeu"
+        },
+        {
+            "name": "Font-Romeu - Gallinera (2127m)",
+            "url": "https://www.vision-environnement.com/live/player/fontromeu20.php",
+            "preview": "https://www.vision-environnement.com/live/modules/timelapse/captureptz/fontromeu.jpg",
+            "section": "Font-Romeu"
+        },
+        {
+            "name": "Font-Romeu - Snowpark de la Calme (2100m)",
+            "url": "https://pv.viewsurf.com/1530/Font-Romeu?i=NjA2Njp1bmRlZmluZWQ",
+            "preview": "https://broadcast.viewsurf.com/a1dcec2ba0fa7df18b0348a35d1d0a47/capture/16528/thumbnailRedirect",
+            "section": "Font-Romeu"
+        },
+        {
+            "name": "Font-Romeu - Les Airelles (1964m)",
+            "url": "https://www.youtube.com/embed/v41wlakLZcc?si=VFtQUG9ApeE0QqJE",
+            "preview": "https://www.trinum.com/ibox/FTPCam/font-romeu_les-airelles.jpg",
+            "section": "Font-Romeu"
+        },
+        {
+            "name": "Font-Romeu - Pyrénées 2000 (1777m)",
+            "url": "https://www.youtube.com/embed/JuCGfcexY5E?si=We-VPmkHXklGBHun",
+            "preview": "https://www.trinum.com/ibox/FTPCam/font-romeu_pyrenees-2000-front-de-neige.jpg",
+            "section": "Font-Romeu"
+        },
+        {
+            "name": "Font-Romeu - Calme sud (2050m)",
+            "url": "https://www.youtube.com/embed/nL9AePFlikA?si=YkSTf6R7D7-QR5CT",
+            "preview": "https://www.trinum.com/ibox/FTPCam/font-romeu_calme-sud.jpg",
+            "section": "Font-Romeu"
+        },
+        {
+            "name": "Font-Romeu - Haut Roc de la Calme (2213m)",
+            "url": "https://www.youtube.com/embed/1q1rGe1GzY0?si=KZnO4RZ5f0tu8A7l",
+            "preview": "https://app.webcam-hd.com/tnm/ibox/FTPCam/font-romeu_roc-de-la-calme.jpg",
+            "section": "Font-Romeu"
+        },
+        {
+            "name": "Ax-les-Thermes (720m)",
             "url": "https://www.bison-fute.gouv.fr/camera-upload/camera7.mp4",
             "section": "Routes"
         },
         {
-            "name": "Merens - 1000m",
+            "name": "Merens (1000m)",
             "url": "https://www.bison-fute.gouv.fr/camera-upload/camera8.mp4",
             "section": "Routes"
         },
         {
-            "name": "L'Hospitalet - 1350m",
+            "name": "L'Hospitalet (1350m)",
             "url": "https://www.bison-fute.gouv.fr/camera-upload/camera3.mp4",
             "section": "Routes"
         },
         {
-            "name": "Carrefour Pas de la case - 1790m",
+            "name": "Carrefour Pas de la case (1790m)",
             "url": "https://www.bison-fute.gouv.fr/camera-upload/camera4.mp4",
             "section": "Routes"
         },
         {
-            "name": "Giratoire Pas de la case - 2060m",
+            "name": "Giratoire Pas de la case (2060m)",
             "url": "https://www.bison-fute.gouv.fr/camera-upload/camera5.mp4",
             "section": "Routes"
         },
         {
-            "name": "Col de Puymorens - 1930m",
+            "name": "Col de Puymorens (1930m)",
             "url": "https://www.bison-fute.gouv.fr/camera-upload/camera6.mp4",
             "section": "Routes"
         }
     ]
-} 
+}
